@@ -1,6 +1,6 @@
 /**
  * Every detail shown on the invitation lives here, so names, times and
- * venues can be corrected in one place.
+ * venues can be corrected in one place...
  */
 
 export const WEDDING_START = '2026-11-16T09:45:00+05:30';
